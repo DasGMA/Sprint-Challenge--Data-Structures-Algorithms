@@ -10,7 +10,7 @@ Add your answers to the questions below.
     The complexity of `breadth_first_for_each` method is O(n).
 
 4. What is the space complexity of your `breadth_first_for_each` method?
-    Space complexity is O(n) also, due to the fact that every node is added to queue.
+    Space complexity is O(n).
 
 5. What is the runtime complexity of your `heapsort` function?
     The runtime complexity of 'heapsort' function is O(n log (n)).
